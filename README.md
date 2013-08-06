@@ -1,6 +1,6 @@
 # Kimbie for TextMate & Sublime Text
 
-A color scheme inspired by [Cold Spring Fault Less Youth][1], the second album by Mount Kimbie.
+A color scheme inspired by [Cold Spring Fault Less Youth][1], the second album by British band Mount Kimbie.
 
 ![Animated Screenshot][2]
 
