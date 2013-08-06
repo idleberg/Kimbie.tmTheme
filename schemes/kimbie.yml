@@ -1,0 +1,19 @@
+# Base16 Builder scheme by Jan T. Sott
+scheme: "Kimbie"
+author: "Jan T. Sott"
+base00: "221a0f" # ----
+base01: "5e452b" # ---
+base02: "84613d" # --
+base03: "a57a4c" # -
+base04: "d6baad" # +
+base05: "d3af86" # ++
+base06: "e4c6a5" # +++
+base07: "fbebd4" # ++++
+base08: "dc3958" # red
+base09: "f79a32" # orange
+base0A: "f06431" # yellow
+base0B: "889b4a" # green
+base0C: "18401e" # aqua
+base0D: "8ab1b0" # blue
+base0E: "98676a" # purple
+base0F: "7e602c" # brown
