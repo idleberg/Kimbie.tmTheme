@@ -14,9 +14,9 @@
 	<key>author</key>
 	<string>Jan T. Sott</string>
 	<key>name</key>
-	<string>Base16 Kimbie Dark</string>
+	<string>Kimbie (dark)</string>
 	<key>semanticClass</key>
-	<string>base16.kimbie.dark</string>
+	<string>kimbie.dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>

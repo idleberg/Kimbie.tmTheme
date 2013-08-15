@@ -14,9 +14,9 @@
 	<key>author</key>
 	<string>Jan T. Sott</string>
 	<key>name</key>
-	<string>Base16 Kimbie Light</string>
+	<string>Kimbie (light)</string>
 	<key>semanticClass</key>
-	<string>base16.kimbie.light</string>
+	<string>kimbie.light</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
