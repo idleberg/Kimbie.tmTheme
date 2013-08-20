@@ -19,7 +19,7 @@
 	<key>comment</key>
 	<string>https://github.com/idleberg/Kimbie.tmTheme</string>
 	<key>semanticClass</key>
-	<string>theme.kimbie.dark</string>
+	<string>theme.dark.kimbie</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
