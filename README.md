@@ -24,8 +24,8 @@ With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/)
 #### Manual Installation
 
 1. Download a `.tmTheme` file of choice
-2. *Browse Packages* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
-3. Copy the `.tmTheme` file to `Packages\User`
+2. *Browse Packages* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P` on OS X)
+3. Copy the `.tmTheme` file to `Packages`
 
 ## License
 
