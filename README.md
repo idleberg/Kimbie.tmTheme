@@ -1,4 +1,7 @@
-# Kimbie for TextMate & Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/Kimbie.tmTheme.png)](http://travis-ci.org/idleberg/Kimbie.tmTheme)
+# Kimbie for TextMate & Sublime Text
+
+[![Creative Commons](https://img.shields.io/badge/license-CC--BY--SA%204.0-orange.svg?style=flat-square)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![Travis CI](https://img.shields.io/travis/idleberg/Kimbie.tmTheme.svg?style=flat-square)](https://travis-ci.org/idleberg/Kimbie.tmTheme)
 
 A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com/Mount-Kimbie-Cold-Spring-Fault-Less-Youth/master/561611), the second album by British band Mount Kimbie.
 
